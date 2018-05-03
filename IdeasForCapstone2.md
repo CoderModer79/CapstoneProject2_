@@ -9,4 +9,6 @@ In a variation on the popular task of sentiment analysis, this dataset contains 
 Sentiment Analysis- Emotion in Text
 Same as above, however this data set has 2 labels, happyness and sadness.
 
+Difference between 1 and 2 is the number of labels on the target variable.
+
 3.
