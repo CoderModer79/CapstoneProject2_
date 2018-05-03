@@ -11,4 +11,6 @@ Same as above, however this data set has 2 labels, happyness and sadness.
 
 Difference between 1 and 2 is the number of labels on the target variable.
 
-3.
+3. Economic News Article Tone and Relevance
+
+Contributors read snippets of news articles. They then noted if the article was relevant to the US economy and, if so, what the tone of the article was. Tone was judged on a 9 point scale (from 1 to 9, with 1 representing the most negativity). Dataset contains these judgments as well as the dates, source titles, and text. Dates range from 1951 to 2014.
