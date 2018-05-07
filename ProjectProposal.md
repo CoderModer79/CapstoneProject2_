@@ -2,17 +2,40 @@ The problem :
 
 Twitter Sentiment Analysis over 13 Feelings
 
+Sentiment Analysis- Emotion in Text In a variation on the popular task of sentiment analysis, this dataset contains labels for the emotional content (such as happiness, sadness, and anger) of texts. 40.000 samples across 13 labels.
+
+In the past decade, new forms of communication, such as text messaging
+have emerged. While there is no limit to the range of information conveyed by tweets and texts, often these short messages are used to share opinions and sentiments that people have about what is going on in the world around them.
+
+Working with these informal text genres presents challenges for natural language processing
+beyond those typically encountered when working with more traditional text genres, such as newswire
+data. Tweets and texts are short: a sentence or a headline rather than a document. The language used
+is very informal, with creative spelling and punctuation, misspellings, slang, new words, URLs, and genrespecific
+terminology and abbreviations, such as, RT for “re-tweet” and #hashtags, which are a type of
+tagging for Twitter messages. How to handle such challenges so as to automatically mine and
+understand the opinions and sentiments that people are communicating has only very recently been the
+subject of research.
+
+We believe that a freely available, annotated corpus that can be used as a common testbed is
+needed in order to promote research that will lead to a better understanding of how sentiment is
+conveyed in tweets and texts. Our primary goal in this task is to create such a resource: a corpus of
+tweets and texts with sentiment expressions.
+
 The Client
 
-a. Individual Buyers : Whoever interested in buying a new car wonders about the actual value of the specific car with the one which was asked by the seller. So it is important for all to come to a better understanding of the values of the cars.
+Businesses/ Organizations
 
-b. Dealers : Most dealers would like to learn the value of that individual car, and determine its value later on.
+Sentiment analysis has many applications and benefits to any business and organization. It can be used to give valuable insights to the business regarding how people feel about your product brand or service.
 
-c. Individual Sellers : Most private sellers would need the value of their car since the value is not constant, it changes considering the depreciation, the repairs etc.
+Product Advocates/ Social Media Influencers
 
-d. Websites or Applications created to help private parties or dealers sell their vehicles.
+When applied to social media channels, it can be used to identify spikes in sentiment, thereby allowing someone to identify potential product advocates or social media influencers.
 
-e. .....
+It can be used to identify when potential negative threads are emerging online regarding your business, thereby allowing you to be proactive in dealing with it more quickly.
+
+Corporate Network
+
+Sentiment analysis could also be applied to the corporate network, for example, by applying it to its email server, emails could be monitored for their general “tone”.  For example, Tone Detector is an Outlook Add-in that determines the “tone” of your email as you type.  Like an emotional spell checker for all of your outgoing email.
 
 Data Set:
 
