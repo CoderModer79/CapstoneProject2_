@@ -21,7 +21,7 @@ needed in order to promote research that will lead to a better understanding of 
 conveyed in tweets and texts. Our primary goal in this task is to create such a resource: a corpus of
 tweets and texts with sentiment expressions.
 
-*The Client*
+*The Client:*
 
 **Businesses/ Organizations**
 
@@ -45,7 +45,7 @@ Sentiment analysis could also be applied to the corporate network, for example, 
 
 - This data comes from 2016. By means of APIs, we can collect fresh data from 2017 and 2018.
 
-*Approach*
+*Approach:*
 
 - This is a supervised problem. Target Feature will be 'sentiment'. Since this feature has 13 labels, solution would be multi labe classification problem, or other approach might be a regression.
 
