@@ -23,17 +23,17 @@ tweets and texts with sentiment expressions.
 
 *The Client*
 
-Businesses/ Organizations
+**Businesses/ Organizations**
 
 Sentiment analysis has many applications and benefits to any business and organization. It can be used to give valuable insights to the business regarding how people feel about your product brand or service.
 
-Product Advocates/ Social Media Influencers
+**Product Advocates/ Social Media Influencers**
 
 When applied to social media channels, it can be used to identify spikes in sentiment, thereby allowing someone to identify potential product advocates or social media influencers.
 
 It can be used to identify when potential negative threads are emerging online regarding your business, thereby allowing you to be proactive in dealing with it more quickly.
 
-Corporate Network
+**Corporate Network**
 
 Sentiment analysis could also be applied to the corporate network, for example, by applying it to its email server, emails could be monitored for their general “tone”.  For example, Tone Detector is an Outlook Add-in that determines the “tone” of your email as you type.  Like an emotional spell checker for all of your outgoing email.
 
