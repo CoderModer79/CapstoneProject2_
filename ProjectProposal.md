@@ -45,6 +45,8 @@ Sentiment analysis could also be applied to the corporate network, for example, 
 
 - This data comes from 2016. By means of APIs, we can collect fresh data from 2017 and 2018.
 
+*Approach*
+
 - This is a supervised problem. Target Feature will be 'sentiment'. Since this feature has 13 labels, solution would be multi labe classification problem, or other approach might be a regression.
 
 - To be able to pre-process the data, I will use NLP methods on the content.
