@@ -2,8 +2,6 @@ The problem :
 
 *Twitter Sentiment Analysis over 13 Feelings*
 
-Sentiment Analysis- Emotion in Text In a variation on the popular task of sentiment analysis, this dataset contains labels for the emotional content (such as happiness, sadness, and anger) of texts. 40.000 samples across 13 labels.
-
 In the past decade, new forms of communication, such as text messaging
 have emerged. While there is no limit to the range of information conveyed by tweets and texts, often these short messages are used to share opinions and sentiments that people have about what is going on in the world around them.
 
@@ -20,6 +18,8 @@ We believe that a freely available, annotated corpus that can be used as a commo
 needed in order to promote research that will lead to a better understanding of how sentiment is
 conveyed in tweets and texts. Our primary goal in this task is to create such a resource: a corpus of
 tweets and texts with sentiment expressions.
+
+Sentiment Analysis- Emotion in Text In a variation on the popular task of sentiment analysis, this dataset contains labels for the emotional content (such as happiness, sadness, and anger) of texts. 40.000 samples across 13 labels.
 
 *The Client:*
 
