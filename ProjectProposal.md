@@ -39,12 +39,12 @@ Sentiment analysis could also be applied to the corporate network, for example, 
 
 *Data Set:*
 
-    a. Taken from : https://data.world/crowdflower/sentiment-analysis-in-text
+- Taken from : https://data.world/crowdflower/sentiment-analysis-in-text
 
-    b. Data Set includes 4 features and 40.000 data points/samples.
+- Data Set includes 4 features and 40.000 data points/samples.
 
-    c. This data comes from 2016. By means of APIs, we can collect fresh data from 2017 and 2018.
+- This data comes from 2016. By means of APIs, we can collect fresh data from 2017 and 2018.
 
-    d. This is a supervised problem. Target Feature will be 'sentiment'. Since this feature has 13 labels, solution would be multi labe classification problem, or other approach might be a regression.
+- This is a supervised problem. Target Feature will be 'sentiment'. Since this feature has 13 labels, solution would be multi labe classification problem, or other approach might be a regression.
 
-    e.  To be able to pre-process the data, I will use NLP methods on the content.
+- To be able to pre-process the data, I will use NLP methods on the content.
