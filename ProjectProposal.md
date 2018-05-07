@@ -14,9 +14,9 @@ tagging for Twitter messages. How to handle such challenges so as to automatical
 understand the opinions and sentiments that people are communicating has only very recently been the
 subject of research.
 
-We believe that a freely available, annotated corpus that can be used as a common testbed is
+I believe that a freely available, annotated corpus that can be used as a common testbed is
 needed in order to promote research that will lead to a better understanding of how sentiment is
-conveyed in tweets and texts. Our primary goal in this task is to create such a resource: a corpus of
+conveyed in tweets and texts. My primary goal in this task is to create such a resource: a corpus of
 tweets and texts with sentiment expressions.
 
 Sentiment Analysis- Emotion in Text In a variation on the popular task of sentiment analysis, this dataset contains labels for the emotional content (such as happiness, sadness, and anger) of texts. 40.000 samples across 13 labels.
